@@ -5,6 +5,10 @@ Scripts for sequence processing and R analysis of 16S ribosomal RNA (rRNA) trans
 
 1. Batch file (MOTHUR) for extracting bacterial sequences 
 2. Batch file (MOTHUR) for extracting archaeal sequences
-5. R script for processing beta & alpha diversity and statistical analysis
+3. R script for processing beta & alpha diversity and statistical analysis
+4. Input taxonomy file for R script
+5. Input shared file for R script
+6. Input metadata file for R script
+7. R session info
 
 Paper is found here [add link]. 
