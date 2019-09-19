@@ -1,0 +1,30 @@
+Samples,DateSampled,Run,SampleType,Location,pH,Temp,Potential
+127SURFDE,01.27.2015,1,Dehumidifier,Dehumidifier,7.4,19.31,none
+127SURFH3A,01.27.2015,1,DUSEL 3A,DUSEL 3A,7.4,19.31,source
+128SURFDE,01.28.2015,1,Dehumidifier,Dehumidifier,7.4,19.31,none
+128SURFH3A,01.28.2015,1,DUSEL 3A,DUSEL 3A,7.4,19.31,source
+416SURFDE,04.16.2015,1,Dehumidifier,Dehumidifier,7.6,19.31,none
+416SURFH3A,04.16.2015,1,DUSEL 3A,DUSEL 3A,7.6,19.31,source
+520ISECPL,05.20.2015,1,ISEC Plank,ISEC,7.75,19.31,none
+520ISECWE0,05.20.2015,1,ISEC OC,ISEC,7.75,19.31,OC
+520ISECWE1,05.20.2015,1,ISEC WE1,ISEC,7.75,19.31,-0.19
+520ISECWE2,05.20.2015,1,ISEC WE2,ISEC,7.75,19.31,0.01
+520ISECWE3,05.20.2015,1,ISEC WE3,ISEC,7.75,19.31,0.26
+520ISECWE4,05.20.2015,1,ISEC WE4,ISEC,7.75,19.31,0.53
+520SURFDE,05.20.2015,1,Dehumidifier,Dehumidifier,7.7,19.31,none
+520SURFH3A,05.20.2015,1,DUSEL 3A,DUSEL 3A,7.7,19.31,source
+Blank,10.28.2015,1,Blank1,Blank,7.5,19.31,none
+BlankC,10.28.2015,2,Blank2,Blank,7.5,25,none
+BlankR,10.28.2015,2,Blank2,Blank,7.5,25,none
+WE1,10.28.2015,2,Lab Enrichment WE1,Lab Enrichment,7.5,25,-0.19
+WE1Blank,10.28.2015,2,Lab Enrichment WE1 Abiotic Control,Lab Enrichment Control,7.5,25,none
+WE1OC,10.28.2015,2,Lab Enrichment WE1 Open Circuit,Lab Enrichment,7.5,25,OC
+WE2,10.28.2015,2,Lab Enrichment WE2,Lab Enrichment,7.5,25,0.01
+WE2Blank,10.28.2015,2,Lab Enrichment WE2 Abiotic Control,Lab Enrichment Control,7.5,25,none
+WE2OC,10.28.2015,2,Lab Enrichment WE2 Open Circuit,Lab Enrichment,7.5,25,OC
+WE3,10.28.2015,2,Lab Enrichment WE3,Lab Enrichment,7.5,25,0.26
+WE3Blank,10.28.2015,2,Lab Enrichment WE3 Abiotic Control,Lab Enrichment Control,7.5,25,none
+WE3OC,10.28.2015,2,Lab Enrichment WE3 Open Circuit,Lab Enrichment,7.5,25,OC
+WE4,10.28.2015,2,Lab Enrichment WE4,Lab Enrichment,7.5,25,0.53
+WE4Blank,10.28.2015,2,Lab Enrichment WE4 Abiotic Control,Lab Enrichment Control,7.5,25,none
+WE4OC,10.28.2015,2,Lab Enrichment WE4 Open Circuit,Lab Enrichment,7.5,25,OC
