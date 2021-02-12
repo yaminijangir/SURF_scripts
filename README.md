@@ -13,4 +13,4 @@ Scripts for sequence processing and R analysis of 16S ribosomal RNA (rRNA) trans
 09. Folder with figure6 data and R script
 10. Folder with figure7 data and R script
 
-Paper is found here [add link]. 
+Paper is found here [https://www.frontiersin.org/articles/10.3389/fenrg.2019.00121/full]. 
